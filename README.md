@@ -10,9 +10,9 @@
       <br />
       <img src="ruhenheim.gif" width="300" />
       <br /><br />
-      <em>"What do you think true fear is? I thought I had been to the darkest place in the universe. But beyond that... I saw even blacker darkness."</em>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=%22What+do+you+think+true+fear+is%3F%22;%22I+thought+I+had+been+to+the+darkest+place+in+the+universe.%22;%22But+beyond+that...+I+saw+even+blacker+darkness.%22" />
       <br />
-      <sub>— Johan Liebert, <em>Monster</em></sub>
+      <sub><em>— Johan Liebert, Monster</em></sub>
     </td>
     <td width="50%" valign="top">
       <h2 align="center"><img src="https://img.shields.io/badge/-About%20Me-e0aaff?style=for-the-badge&labelColor=1a1025" /></h2>
@@ -56,9 +56,9 @@
       <br />
       <img src="oikawa.gif" width="300" />
       <br /><br />
-      <em>"Talent is something you make bloom. Instinct is something you polish."</em>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=%22Talent+is+something+you+make+bloom.%22;%22Instinct+is+something+you+polish.%22" />
       <br />
-      <sub>— Tooru Oikawa, <em>Haikyuu!!</em></sub>
+      <sub><em>— Tooru Oikawa, Haikyuu!!</em></sub>
     </td>
   </tr>
 </table>
@@ -75,9 +75,9 @@
       <br />
       <img src="ruhenheim.gif" width="300" />
       <br /><br />
-      <em>"What do you think true fear is? I thought I had been to the darkest place in the universe. But beyond that... I saw even blacker darkness."</em>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=%22What+do+you+think+true+fear+is%3F%22;%22I+thought+I+had+been+to+the+darkest+place+in+the+universe.%22;%22But+beyond+that...+I+saw+even+blacker+darkness.%22" />
       <br />
-      <sub>— Johan Liebert, <em>Monster</em></sub>
+      <sub><em>— Johan Liebert, Monster</em></sub>
     </td>
     <td width="50%" valign="top">
       <h2 align="center"><img src="https://img.shields.io/badge/-Current%20Projects-e0aaff?style=for-the-badge&labelColor=1a1025" /></h2>
@@ -120,9 +120,9 @@
       <br />
       <img src="ruhenheim.gif" width="300" />
       <br /><br />
-      <em>"What do you think true fear is? I thought I had been to the darkest place in the universe. But beyond that... I saw even blacker darkness."</em>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=%22What+do+you+think+true+fear+is%3F%22;%22I+thought+I+had+been+to+the+darkest+place+in+the+universe.%22;%22But+beyond+that...+I+saw+even+blacker+darkness.%22" />
       <br />
-      <sub>— Johan Liebert, <em>Monster</em></sub>
+      <sub><em>— Johan Liebert, Monster</em></sub>
     </td>
   </tr>
 </table>
@@ -139,9 +139,9 @@
       <br />
       <img src="ruhenheim.gif" width="300" />
       <br /><br />
-      <em>"What do you think true fear is? I thought I had been to the darkest place in the universe. But beyond that... I saw even blacker darkness."</em>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=%22What+do+you+think+true+fear+is%3F%22;%22I+thought+I+had+been+to+the+darkest+place+in+the+universe.%22;%22But+beyond+that...+I+saw+even+blacker+darkness.%22" />
       <br />
-      <sub>— Johan Liebert, <em>Monster</em></sub>
+      <sub><em>— Johan Liebert, Monster</em></sub>
     </td>
     <td width="50%" align="center" valign="top">
       <h2 align="center"><img src="https://img.shields.io/badge/-GitHub%20Stats-e0aaff?style=for-the-badge&labelColor=1a1025" /></h2>
