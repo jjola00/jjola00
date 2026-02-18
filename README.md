@@ -119,11 +119,11 @@
     </td>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="ruhenheim.gif" width="300" />
+      <img src="malenia.webp" width="300" />
       <br /><br />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=%22What+do+you+think+true+fear+is%3F%22;%22I+thought+I+had+been+to+the+darkest+place+in+the+universe.%22;%22But+beyond+that...+I+saw+even+blacker+darkness.%22" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=%22I+am+Malenia%2C+Blade+of+Miquella.%22;%22And+I+have+never+known+defeat.%22" />
       <br />
-      <sub><em>— Johan Liebert, Monster</em></sub>
+      <sub><em>— Malenia, Elden Ring</em></sub>
     </td>
   </tr>
 </table>
