@@ -17,13 +17,14 @@
     <td width="50%" valign="top">
       <h2 align="center"><img src="https://img.shields.io/badge/-About%20Me-e0aaff?style=for-the-badge&labelColor=1a1025" /></h2>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Passionate about building things that live on the internet and tinkering with systems until they feel just right.
+        Hi I'm Jay Jay! I'm a 3rd year software engineering student in Immersive Software Engineering (ISE) with a vast interest in coding, mainly on the entrepreneural side.
       </p>
+      <h3>Currently:</h3>
       <ul>
-        <li>🔮 Currently exploring the depths of <strong>placeholder technology</strong></li>
-        <li>🌙 Learning <strong>something fascinating</strong></li>
-        <li>✨ Open to collaborating on <strong>cool projects</strong></li>
-        <li>💜 Fun fact: <strong>Placeholder fun fact goes here</strong></li>
+        <li>💼 On internship at <strong>Transact Campus</strong></li>
+        <li>🏠 Building <strong><a href="https://rentilia.ie">rentilia</a></strong></li>
+        <li>🎓 Working on my <strong><a href="https://fyp-mu-nine.vercel.app/">FYP</a></strong></li>
+        <li>🇩🇪 Fun fact: <strong>I can say the alphabet in German</strong></li>
       </ul>
     </td>
   </tr>
@@ -44,11 +45,11 @@
         <img src="https://img.shields.io/badge/JavaScript-7b3f8e?style=for-the-badge&logo=javascript&logoColor=e0aaff" />
         <img src="https://img.shields.io/badge/TypeScript-8a4a99?style=for-the-badge&logo=typescript&logoColor=e0aaff" />
         <img src="https://img.shields.io/badge/React-9b59b6?style=for-the-badge&logo=react&logoColor=e0aaff" />
-        <img src="https://img.shields.io/badge/Node.js-ab68c4?style=for-the-badge&logo=nodedotjs&logoColor=e0aaff" />
-        <img src="https://img.shields.io/badge/Linux-bb77d2?style=for-the-badge&logo=linux&logoColor=1a1025" />
-        <img src="https://img.shields.io/badge/Git-c77dff?style=for-the-badge&logo=git&logoColor=1a1025" />
-        <img src="https://img.shields.io/badge/Docker-d88beb?style=for-the-badge&logo=docker&logoColor=1a1025" />
-        <img src="https://img.shields.io/badge/Neovim-e91e8c?style=for-the-badge&logo=neovim&logoColor=1a1025" />
+        <img src="https://img.shields.io/badge/C%2B%2B-ab68c4?style=for-the-badge&logo=cplusplus&logoColor=e0aaff" />
+        <img src="https://img.shields.io/badge/Node.js-bb77d2?style=for-the-badge&logo=nodedotjs&logoColor=1a1025" />
+        <img src="https://img.shields.io/badge/Linux-c77dff?style=for-the-badge&logo=linux&logoColor=1a1025" />
+        <img src="https://img.shields.io/badge/Git-d88beb?style=for-the-badge&logo=git&logoColor=1a1025" />
+        <img src="https://img.shields.io/badge/Docker-e91e8c?style=for-the-badge&logo=docker&logoColor=1a1025" />
         <img src="https://img.shields.io/badge/Hyprland-f472b6?style=for-the-badge&logo=wayland&logoColor=1a1025" />
       </p>
     </td>
@@ -102,17 +103,17 @@
     <td width="50%" valign="top">
       <h2 align="center"><img src="https://img.shields.io/badge/-Contact-e0aaff?style=for-the-badge&labelColor=1a1025" /></h2>
       <p align="center">
-        <a href="mailto:placeholder@email.com">
+        <a href="mailto:jjolajitan2006@gmail.com">
           <img src="https://img.shields.io/badge/Email-6c3483?style=for-the-badge&logo=gmail&logoColor=e0aaff" />
         </a>
-        <a href="https://linkedin.com/in/placeholder">
+        <a href="https://www.linkedin.com/in/jay-jay-olajitan/">
           <img src="https://img.shields.io/badge/LinkedIn-9b59b6?style=for-the-badge&logo=linkedin&logoColor=e0aaff" />
         </a>
-        <a href="https://discord.com">
+        <a href="https://discord.com/users/kotokamiii">
           <img src="https://img.shields.io/badge/Discord-c77dff?style=for-the-badge&logo=discord&logoColor=1a1025" />
         </a>
-        <a href="https://x.com/placeholder">
-          <img src="https://img.shields.io/badge/Twitter-e91e8c?style=for-the-badge&logo=x&logoColor=1a1025" />
+        <a href="https://twitch.tv/kotokamiii">
+          <img src="https://img.shields.io/badge/Twitch-e91e8c?style=for-the-badge&logo=twitch&logoColor=1a1025" />
         </a>
       </p>
     </td>
