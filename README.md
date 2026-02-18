@@ -1,5 +1,5 @@
-magik.mp4
-  <img src="magik.mp4" width="100%" />
+<p align="center">
+  <img src="magik.webp" width="100%" />
 </p>
 
 <!-- ═══════════ ROW 1: GIF + Quote | About Me ═══════════ -->
@@ -10,7 +10,9 @@ magik.mp4
       <br />
       <img src="ruhenheim.gif" width="300" />
       <br /><br />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=300&lines=The+night+is+dark+and+full+of+code...;In+the+glow+of+the+terminal..." />
+      <em>"What do you think true fear is? I thought I had been to the darkest place in the universe. But beyond that... I saw even blacker darkness."</em>
+      <br />
+      <sub>— Johan Liebert, <em>Monster</em></sub>
     </td>
     <td width="50%" valign="top">
       <h2 align="center"><img src="https://img.shields.io/badge/-About%20Me-e0aaff?style=for-the-badge&labelColor=1a1025" /></h2>
@@ -52,9 +54,11 @@ magik.mp4
     </td>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="ruhenheim.gif" width="300" />
+      <img src="oikawa.gif" width="300" />
       <br /><br />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=300&lines=In+the+silence+between+keystrokes...;Logic+flows+like+moonlight..." />
+      <em>"Talent is something you make bloom. Instinct is something you polish."</em>
+      <br />
+      <sub>— Tooru Oikawa, <em>Haikyuu!!</em></sub>
     </td>
   </tr>
 </table>
@@ -71,7 +75,9 @@ magik.mp4
       <br />
       <img src="ruhenheim.gif" width="300" />
       <br /><br />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=300&lines=Dreams+compiled+without+errors...;Runtime+of+the+imagination..." />
+      <em>"What do you think true fear is? I thought I had been to the darkest place in the universe. But beyond that... I saw even blacker darkness."</em>
+      <br />
+      <sub>— Johan Liebert, <em>Monster</em></sub>
     </td>
     <td width="50%" valign="top">
       <h2 align="center"><img src="https://img.shields.io/badge/-Current%20Projects-e0aaff?style=for-the-badge&labelColor=1a1025" /></h2>
@@ -114,7 +120,9 @@ magik.mp4
       <br />
       <img src="ruhenheim.gif" width="300" />
       <br /><br />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=300&lines=Pixels+dancing+in+the+void...;A+symphony+of+purple+light..." />
+      <em>"What do you think true fear is? I thought I had been to the darkest place in the universe. But beyond that... I saw even blacker darkness."</em>
+      <br />
+      <sub>— Johan Liebert, <em>Monster</em></sub>
     </td>
   </tr>
 </table>
@@ -131,7 +139,9 @@ magik.mp4
       <br />
       <img src="ruhenheim.gif" width="300" />
       <br /><br />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=300&lines=Where+shadows+meet+the+syntax...;The+code+whispers+back..." />
+      <em>"What do you think true fear is? I thought I had been to the darkest place in the universe. But beyond that... I saw even blacker darkness."</em>
+      <br />
+      <sub>— Johan Liebert, <em>Monster</em></sub>
     </td>
     <td width="50%" align="center" valign="top">
       <h2 align="center"><img src="https://img.shields.io/badge/-GitHub%20Stats-e0aaff?style=for-the-badge&labelColor=1a1025" /></h2>
