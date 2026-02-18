@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c3483,50:9b59b6,100:e91e8c&height=200&section=header&text=jjola00&fontColor=e0aaff&fontSize=50&fontAlignY=35" width="100%" />
+  <img src="img_animated_punkchild.webp" width="100%" />
 </p>
 
 <!-- ═══════════ ROW 1: GIF + Quote | About Me ═══════════ -->
