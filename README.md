@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="img_animated_punkchild.webp" width="100%" />
+magik.mp4
+  <img src="magik.mp4" width="100%" />
 </p>
 
 <!-- ═══════════ ROW 1: GIF + Quote | About Me ═══════════ -->
