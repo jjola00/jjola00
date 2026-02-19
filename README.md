@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="magik.webp" width="100%" />
+  <img src="magik.png" width="100%" />
 </p>
 
 <!-- ═══════════ ROW 1: GIF + Quote | About Me ═══════════ -->
@@ -154,5 +154,5 @@
 </table>
 
 <p align="center">
-  <img src="magik2.webp" width="100%" />
+  <img src="magik2.png" width="100%" />
 </p>
