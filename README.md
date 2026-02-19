@@ -74,11 +74,11 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="ruhenheim.gif" width="300" />
+      <img src="arcane.webp" width="300" />
       <br /><br />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=%22What+do+you+think+true+fear+is%3F%22;%22I+thought+I+had+been+to+the+darkest+place+in+the+universe.%22;%22But+beyond+that...+I+saw+even+blacker+darkness.%22" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=%22Are+we+still+sisters%3F%22;%22Nothing+can+ever+change+that.%22" />
       <br />
-      <sub><em>— Johan Liebert, Monster</em></sub>
+      <sub><em>— Jinx, Arcane</em></sub>
     </td>
     <td width="50%" valign="top">
       <h2 align="center"><img src="https://img.shields.io/badge/-Current%20Projects-e0aaff?style=for-the-badge&labelColor=1a1025" /></h2>
@@ -154,5 +154,5 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e91e8c,50:9b59b6,100:6c3483&height=200&section=footer" width="100%" />
+  <img src="magik2.webp" width="100%" />
 </p>
