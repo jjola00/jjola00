@@ -136,8 +136,7 @@
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <br />
+    <td width="50%" align="center" valign="middle">
       <img src="makima.webp" width="300" />
       <br /><br />
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=%22I+like+the+country+mouse+too.%22" />
