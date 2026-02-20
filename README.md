@@ -81,12 +81,12 @@
       <sub><em>— Jinx, Arcane</em></sub>
     </td>
     <td width="50%" valign="top">
-      <h2 align="center"><img src="https://img.shields.io/badge/-Current%20Projects-e0aaff?style=for-the-badge&labelColor=1a1025" /></h2>
+      <h2 align="center"><img src="https://img.shields.io/badge/-Favourite%20Things-e0aaff?style=for-the-badge&labelColor=1a1025" /></h2>
       <ul>
-        <li>🚀 <strong>Project Alpha</strong> — A placeholder project that does amazing things with placeholder technology</li>
-        <li>🌌 <strong>Project Beta</strong> — An experimental tool for exploring the unknown depths of code</li>
-        <li>🔧 <strong>Dotfiles</strong> — Hyprland rice and system configuration, forever a work in progress</li>
-        <li>💫 <strong>Project Gamma</strong> — Something cool is brewing here, stay tuned</li>
+        <li>🎬 <strong>Mean Girls</strong></li>
+        <li>🎮 <strong>Elden Ring</strong></li>
+        <li>🎵 <strong>Taylor Swift / Bohemian Rhapsody</strong></li>
+        <li>🍥 <strong>Monster</strong></li>
       </ul>
     </td>
   </tr>
@@ -138,11 +138,11 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <br />
-      <img src="ruhenheim.gif" width="300" />
+      <img src="makima.webp" width="300" />
       <br /><br />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=%22What+do+you+think+true+fear+is%3F%22;%22I+thought+I+had+been+to+the+darkest+place+in+the+universe.%22;%22But+beyond+that...+I+saw+even+blacker+darkness.%22" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=500&lines=%22I+like+the+country+mouse+too.%22" />
       <br />
-      <sub><em>— Johan Liebert, Monster</em></sub>
+      <sub><em>— Makima, Chainsaw Man</em></sub>
     </td>
     <td width="50%" align="center" valign="top">
       <h2 align="center"><img src="https://img.shields.io/badge/-GitHub%20Stats-e0aaff?style=for-the-badge&labelColor=1a1025" /></h2>
