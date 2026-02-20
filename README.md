@@ -146,7 +146,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       <h2 align="center"><img src="https://img.shields.io/badge/-GitHub%20Stats-e0aaff?style=for-the-badge&labelColor=1a1025" /></h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=jjola00&show_icons=true&bg_color=45,1a1025,6c3483,e91e8c&title_color=e0aaff&text_color=c77dff&icon_color=f472b6&border_color=9b59b6" width="400" />
+      <img src="https://stat-repo-eight.vercel.app/api?username=jjola00&show_icons=true&bg_color=45,1a1025,6c3483,e91e8c&title_color=e0aaff&text_color=c77dff&icon_color=f472b6&border_color=9b59b6" width="400" />
       <br /><br />
       <img src="https://streak-stats.demolab.com?user=jjola00&background=1A1025&ring=E91E8C&fire=F472B6&currStreakLabel=E0AAFF&sideLabels=E0AAFF&currStreakNum=C77DFF&sideNums=C77DFF&dates=9B59B6&border=9B59B6" width="400" />
     </td>
