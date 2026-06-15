@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="magik.png" width="100%" />
+  <img src="img_magik.png" width="100%" />
 </p>
 
 <!-- ═══════════ ROW 1: GIF + Quote | About Me ═══════════ -->
