@@ -65,7 +65,7 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6c3483,50:9b59b6,100:e91e8c&height=4" width="100%" />
+  <img src="img_infernal-idol.png" width="100%" />
 </p>
 
 <!-- ═══════════ ROW 3: GIF + Quote | Current Projects ═══════════ -->
@@ -93,8 +93,8 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6c3483,50:9b59b6,100:e91e8c&height=4" width="100%" />
-</p>
+  <img src="img_soulless-sword.png" width="100%" />
+</p> 
 
 <!-- ═══════════ ROW 4: Contact | GIF + Quote ═══════════ -->
 
@@ -129,7 +129,7 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6c3483,50:9b59b6,100:e91e8c&height=4" width="100%" />
+  <img src="img_netherworld-noble.png" width="100%" />
 </p>
 
 <!-- ═══════════ ROW 5: GIF + Quote | GitHub Stats ═══════════ -->
