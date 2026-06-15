@@ -31,6 +31,11 @@
 </table>
 
 <p align="center">
+  <img src="magik.png" width="100%" />
+</p>
+
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6c3483,50:9b59b6,100:e91e8c&height=4" width="100%" />
 </p>
 
