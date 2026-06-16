@@ -153,5 +153,5 @@
 </table>
 
 <p align="center">
-  <img src="magik2.png" width="100%" />
+  <img src="magik6.png" width="100%" />
 </p>
