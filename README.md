@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="magik.png" width="100%" />
+  <img src="magik2.png" width="100%" />
 </p>
 
 <!-- ═══════════ ROW 1: GIF + Quote | About Me ═══════════ -->
@@ -17,14 +17,14 @@
     <td width="50%" valign="top">
       <h2 align="center"><img src="https://img.shields.io/badge/-About%20Me-e0aaff?style=for-the-badge&labelColor=1a1025" /></h2>
       <p>
-        Hi I'm Jay Jay! I'm a 3rd year software engineering student in Immersive Software Engineering (ISE) with a vast interest in coding, mainly on the entrepreneural side.
+        Hi I'm Jay Jay! I'm a 4th year software engineering student in Immersive Software Engineering (ISE) with a vast interest in coding, mainly on the entrepreneural side.
       </p>
       <h3>Currently:</h3>
       <ul>
-        <li>💼 On internship at <strong>Transact Campus</strong></li>
+        <li>💼 <strong>Open to work</strong> — most recently interned at <strong>Transact Campus</strong></li>
         <li>🏠 Building <strong><a href="https://rentilia.ie">rentilia</a></strong></li>
         <li>🎓 Working on my <strong><a href="https://fyp-mu-nine.vercel.app/">FYP</a></strong></li>
-        <li>🇩🇪 Fun fact: <strong>I can say the alphabet in German</strong></li>
+        <li>🎮 Fun fact: <strong>I peaked top 50 Magik (console)</strong></li>
       </ul>
     </td>
   </tr>
@@ -145,13 +145,13 @@
     </td>
     <td width="50%" align="center" valign="top">
       <h2 align="center"><img src="https://img.shields.io/badge/-GitHub%20Stats-e0aaff?style=for-the-badge&labelColor=1a1025" /></h2>
-      <img src="https://stat-repo-eight.vercel.app/api?username=jjola00&show_icons=true&bg_color=45,1a1025,6c3483,e91e8c&title_color=e0aaff&text_color=c77dff&icon_color=f472b6&border_color=9b59b6" width="400" />
+      <img src="https://stat-repo-eight.vercel.app/api?username=jjola00&show_icons=true&bg_color=45,1a1025,6c3483,e91e8c&title_color=e0aaff&text_color=c77dff&icon_color=f472b6&border_color=9b59b6&cb=20260616" width="400" />
       <br /><br />
-      <img src="https://streak-stats.demolab.com?user=jjola00&background=1A1025&ring=E91E8C&fire=F472B6&currStreakLabel=E0AAFF&sideLabels=E0AAFF&currStreakNum=C77DFF&sideNums=C77DFF&dates=9B59B6&border=9B59B6" width="400" />
+      <img src="https://streak-stats.demolab.com?user=jjola00&background=1A1025&ring=E91E8C&fire=F472B6&currStreakLabel=E0AAFF&sideLabels=E0AAFF&currStreakNum=C77DFF&sideNums=C77DFF&dates=9B59B6&border=9B59B6&cb=20260616" width="400" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="magik2.png" width="100%" />
+  <img src="magik.png" width="100%" />
 </p>
