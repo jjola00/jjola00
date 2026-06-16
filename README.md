@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="magik2.png" width="100%" />
+  <img src="magik1.png" width="100%" />
 </p>
 
 <!-- ═══════════ ROW 1: GIF + Quote | About Me ═══════════ -->
@@ -31,7 +31,7 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6c3483,50:9b59b6,100:e91e8c&height=4" width="100%" />
+  <img src="magik2.png" width="100%" />
 </p>
 
 <!-- ═══════════ ROW 2: Tech Stack | GIF + Quote ═══════════ -->
@@ -65,7 +65,7 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6c3483,50:9b59b6,100:e91e8c&height=4" width="100%" />
+  <img src="magik3.png" width="100%" />
 </p>
 
 <!-- ═══════════ ROW 3: GIF + Quote | Current Projects ═══════════ -->
@@ -93,8 +93,8 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6c3483,50:9b59b6,100:e91e8c&height=4" width="100%" />
-</p>
+  <img src="magik4.png" width="100%" />
+</p> 
 
 <!-- ═══════════ ROW 4: Contact | GIF + Quote ═══════════ -->
 
@@ -129,7 +129,7 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6c3483,50:9b59b6,100:e91e8c&height=4" width="100%" />
+  <img src="magik5.png" width="100%" />
 </p>
 
 <!-- ═══════════ ROW 5: GIF + Quote | GitHub Stats ═══════════ -->
@@ -153,5 +153,5 @@
 </table>
 
 <p align="center">
-  <img src="magik.png" width="100%" />
+  <img src="magik2.png" width="100%" />
 </p>
