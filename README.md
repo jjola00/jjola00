@@ -24,7 +24,7 @@
         <li>💼 <strong>Open to work</strong> — most recently interned at <strong>Transact Campus</strong></li>
         <li>🏠 Building <strong><a href="https://rentilia.ie">rentilia</a></strong></li>
         <li>🎓 Working on my <strong><a href="https://fyp-mu-nine.vercel.app/">FYP</a></strong></li>
-        <li>🎮 Fun fact: <strong>I peaked top 50 Magik (console)</strong></li>
+        <li>🎮 Fun fact: <strong>I peaked top 20 Magik (console)</strong></li>
       </ul>
     </td>
   </tr>
